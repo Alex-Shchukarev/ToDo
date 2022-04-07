@@ -1,24 +1,4 @@
-# module4
+### ToDo App
+Simple app for daily tasks [project](https://alex-shchukarev.github.io/ToDo/)
+![image](https://user-images.githubusercontent.com/78414390/162150852-935c590c-7a37-46ee-b3ba-222a343fce82.png)
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
